@@ -1,18 +1,35 @@
-## Hi there 👋
+ Olá! Eu sou Kauan Henrique da Silva 👋
 
-meu nome e kauanzada
-tenho 15 anos
-@kauanhsilva244
-**KauanHDS/KauanHDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou um estudante 
+Tenho 15 anos 
+Moro em itatiba 
+Sou interessado
+Gosto de trabalhar em equipe e etc.
 
-- 🔭 I’m currently working on lava rapido
-- 🌱 I’m currently learning a jogar futvolei
-- 👯 I’m looking to collaborate on estudar mais
-- 🤔 I’m looking for help with crisma
-- 💬 Ask me about moto
-- 📫 How to reach me: instagram,whattszap ou gmail
-- 😄 Pronouns: ele
-- ⚡ Fun fact: ando de bike e jogo bola
+- 🔭 Atualmente estou Estudando em Oscarlina De Araujo Oliveira- (http://www.educacao.sp.gov.br/cgrh/escolas/oscarlina-de-araujo-oliveira-professora/).
+- 🌱 Estou aprendendo [Tecnologia e Robotica!🤖 ].
+- 👯 Procuro colaborar em desafios interessantes.
+- 📫 Como me encontrar: (mailt.00001105196847sp@al.educacao.sp.gov.br)
+- fun fact ⚡ []
+## 🛠️ Habilidades
+Tenho boa comunicação
+Gosto de trabalha em equipe e etc.
+### Linguagens de Programação
+-
+      
+### Frameworks e Ferramentas
+-
 
+### Banco de Dados
+-
+
+## 🚀 Projetos
+ATUALMENTE NAO TENHO NENHUM PROJETO.
+
+## 📫 Contato
+
+@gmail:00001105196847sp@al.educacao.sp.gov.br
+
+Espero que tenha gostado do meu perfil! Vamos conectar e colaborar em projetos futuros.
